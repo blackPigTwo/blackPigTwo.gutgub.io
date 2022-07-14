@@ -4,4 +4,4 @@
 
 * 前端技术
     * [JavaEE](01/JavaEE/)
-    * [222](01/echarts/)
+    * [question](01/questions/)
