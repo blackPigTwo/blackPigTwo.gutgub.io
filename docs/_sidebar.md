@@ -4,6 +4,6 @@
 
 * 前端技术
     * [JavaEE](01/JavaEE/)
-    * [222](01/questions/)
+    * [question](01/questions/)
 
 * 服务器端技术
