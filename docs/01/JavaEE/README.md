@@ -123,8 +123,10 @@ class B {
         name = "Default name"; // 只能第一次去赋值初始化
     }
 }
+
 ```
 
+### static
 
 
 
